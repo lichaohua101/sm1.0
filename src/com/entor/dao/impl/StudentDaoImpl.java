@@ -304,5 +304,10 @@ public class StudentDaoImpl implements StudentDao{
 		}
 		return list;
 	}
+	@Override
+	public void test() {
+		// TODO Auto-generated method stub
+		System.out.println("测试 github");
+	}
 
 }

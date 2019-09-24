@@ -5,6 +5,7 @@ import java.util.List;
 import com.entor.entity.Student;
 
 public interface StudentDao {
+	public void test();
 	/**
 	 * 登录
 	 * @param username		帐号
