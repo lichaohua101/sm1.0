@@ -1,0 +1,9 @@
+table {
+	width: 80%;
+	text-align: center;
+	border-collapse: collapse;
+}
+input{
+	width: 100px;
+	height: 20px;
+}
